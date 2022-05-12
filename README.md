@@ -3,7 +3,7 @@
 # JAVA Study
 ### `JAVA 개념 꽉 JAVA`
 > Since 2022.05.07
-  - <a href="https://www.notion.so/Peer-Group-2-4f767d2bb511429db7b2bb4fd8c94055"> JAVA Study 스터디 기록 노션</a>
+  - <a href="https://www.notion.so/STEADY-JAVA-89e1b363e2684f468ecda8a5d6de29d0"> JAVA Study 스터디 기록 노션</a>
   - [Repository Rule](#repository-rule)
   - [Collaborator](#collaborator)
   - [Reference](#reference)
