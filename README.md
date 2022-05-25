@@ -10,20 +10,29 @@
 
 ### `스터디 진행 상황`
 - [자바의 정석(3판)](first-study)
-### 1주차 (05.13) :: Chapter 1 자바를 시작하기 전 ☑
-### 1주차 (05.13) :: Chapter 2 변수(Variable) ☑
-### 2주차 (05.19) :: Chapter 3 연산자(Operator) ☑
-### 2주차 (05.19) :: Chapter 4 조건문과 반복문 ☑
-### 3주차 (05.26) :: Chapter 5 배열(Array)
-### 4주차 (06.02) :: Chapter 6 객체지향 프로그래밍 I
-### 5주차 (06.09) :: Chapter 7 객체지향 프로그래밍 II
-### 6주차 (06.17) :: Chapter 8 예외처리(Exception Handling)
-### 6주차 (06.17) :: Chapter 9 java.lang패키지와 유용한 클래스
-### 7주차 (06.23) :: Chapter 10 날짜와 시간 & 형식화
-### 7주차 (06.23) :: Chapter 11 컬렉션 프레임워크
-### 8주차 (06.30) :: Chapter 12 지네릭스, 열거형, 애너테이션
-### 9주차 (07.07) :: Chapter 13 쓰레드(Thread)
-### 9주차 (07.07) :: Chapter 14 람다와 스트림
+- 
+1주차 (05.13) :: Chapter 1 자바를 시작하기 전 ☑
+1주차 (05.13) :: Chapter 2 변수(Variable) ☑
+
+2주차 (05.19) :: Chapter 3 연산자(Operator) ☑
+2주차 (05.19) :: Chapter 4 조건문과 반복문 ☑
+
+3주차 (05.26) :: Chapter 5 배열(Array)
+
+4주차 (06.02) :: Chapter 6 객체지향 프로그래밍 I
+
+5주차 (06.09) :: Chapter 7 객체지향 프로그래밍 II
+
+6주차 (06.17) :: Chapter 8 예외처리(Exception Handling)
+6주차 (06.17) :: Chapter 9 java.lang패키지와 유용한 클래스
+
+7주차 (06.23) :: Chapter 10 날짜와 시간 & 형식화
+7주차 (06.23) :: Chapter 11 컬렉션 프레임워크
+
+8주차 (06.30) :: Chapter 12 지네릭스, 열거형, 애너테이션
+
+9주차 (07.07) :: Chapter 13 쓰레드(Thread)
+9주차 (07.07) :: Chapter 14 람다와 스트림
 
 ### Collaborator
 
@@ -39,10 +48,3 @@
 </table>
 
 </p>
-
-### Repository-Rule
-
-> 1) [Github 가이드](https://www.notion.so/STEADY-JAVA-89e1b363e2684f468ecda8a5d6de29d0?p=21049fda22bd4cc0830606a08c917513)<br>
-> 2) [학습 진도 계획](https://www.notion.so/STEADY-JAVA-89e1b363e2684f468ecda8a5d6de29d0?p=61d3a36fd27840f0b06198c1e8daf184)<br>
-
- <br> 
