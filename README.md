@@ -10,7 +10,7 @@
 
 ### `스터디 진행 상황`
 - [자바의 정석(3판)](first-study)
- <a href="https://bitter-drink-562.notion.site/STUDY-PLAN-61d3a36fd27840f0b06198c1e8daf184">스터디 계획표</a>
+ <a href="https://www.notion.so/STUDY-PLAN-61d3a36fd27840f0b06198c1e8daf184">스터디 계획표</a>
   
 
 ### Collaborator
