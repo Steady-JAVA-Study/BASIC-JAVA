@@ -17,7 +17,7 @@
 2주차 (05.19) :: Chapter 3 연산자(Operator) ☑
 2주차 (05.19) :: Chapter 4 조건문과 반복문 ☑
 
-3주차 (05.26) :: Chapter 5 배열(Array)
+3주차 (05.26) :: Chapter 5 배열(Array) ☑
 
 4주차 (06.02) :: Chapter 6 객체지향 프로그래밍 I
 
