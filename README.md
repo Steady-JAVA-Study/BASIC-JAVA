@@ -21,7 +21,7 @@
 
 4주차 (06.02) :: Chapter 6 객체지향 프로그래밍 I ☑
 
-5주차 (06.09) :: Chapter 7 객체지향 프로그래밍 II
+5주차 (06.09) :: Chapter 7 객체지향 프로그래밍 II ☑
 
 6주차 (06.17) :: Chapter 8 예외처리(Exception Handling)
 6주차 (06.17) :: Chapter 9 java.lang패키지와 유용한 클래스
