@@ -24,15 +24,15 @@
 5주차 (06.09) :: Chapter 7 객체지향 프로그래밍 II ☑
 
 6주차 (06.17) :: Chapter 8 예외처리(Exception Handling) ☑
-6주차 (06.17) :: Chapter 9 java.lang패키지와 유용한 클래스 ☑
+6주차 (06.23) :: Chapter 9 java.lang패키지와 유용한 클래스 ☑
 
-7주차 (06.23) :: Chapter 10 날짜와 시간 & 형식화
-7주차 (06.23) :: Chapter 11 컬렉션 프레임워크
+7주차 (06.30) :: Chapter 10 날짜와 시간 & 형식화
+7주차 (06.30) :: Chapter 11 컬렉션 프레임워크
 
-8주차 (06.30) :: Chapter 12 지네릭스, 열거형, 애너테이션
+8주차 (07.07) :: Chapter 12 지네릭스, 열거형, 애너테이션
 
-9주차 (07.07) :: Chapter 13 쓰레드(Thread)
-9주차 (07.07) :: Chapter 14 람다와 스트림
+9주차 (07.14) :: Chapter 13 쓰레드(Thread)
+9주차 (07.14) :: Chapter 14 람다와 스트림
 
 ### Collaborator
 
